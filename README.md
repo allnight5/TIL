@@ -5,8 +5,6 @@
 # git 강의듣고 요약
 -[git 버전관리](/git/version)
 
--[git 활용하기]
-(/git/Conceptualtheorem)
+-[git 활용하기](/git/Conceptualtheorem)
 
--[git 오류 발생시 대처방법 모음]
-(/git/gitError)
+-[git 오류 발생시 대처방법 모음](/git/gitError)
