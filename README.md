@@ -3,8 +3,7 @@
 
 
 # git 강의듣고 요약
--git 버전관리
-https://github.com/allnight5/TIL/blob/main/git/version
+-[git 버전관리](#git/version)
 
 -git 활용하기
 https://github.com/allnight5/TIL/blob/main/git/Conceptualtheorem
